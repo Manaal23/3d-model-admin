@@ -1,0 +1,11 @@
+.flex-fill ul{
+  list-style-type: none
+}
+
+.flex-fill li {
+  padding: 20px;
+}
+
+.model-detail{
+  margin-bottom: 3%;
+}
